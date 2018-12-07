@@ -9,8 +9,7 @@
 
     <remote
         name="other_01_gitbub"
-        fetch=".."
-        review="https://github.com/yangxch/"
+        fetch="https://github.com/yangxch/"
         />
 
     <default
