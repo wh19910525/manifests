@@ -17,4 +17,5 @@
 
     <project path="d01_WangHais-common-code-base" name="WangHais-common-code-base" />
 
+    <project path="opencv_and_zbar" name="opencv_and_zbar" revision="2018_10_17"/>
 </manifest>
