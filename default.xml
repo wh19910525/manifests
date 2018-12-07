@@ -19,7 +19,7 @@
         sync-j="4"
         />
 
-    <project path="WangHais-common-code-base" name="WangHais-common-code-base" />
+    <project path="WangHais-common-code-base" name="WangHais-common-code-base" revision="6af1134e08626d691d81e0fa8c5edaf42d80928f" />
 
     <project path="d01_WangHais-common-code-base" name="WangHais-common-code-base" />
 
