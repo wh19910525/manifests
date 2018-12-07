@@ -7,6 +7,12 @@
         review="https://github.com/wh19910525/"
         />
 
+    <remote
+        name="other_01_gitbub"
+        fetch=".."
+        review="https://github.com/yangxch/"
+        />
+
     <default
         revision="master"
         remote="frank_gitbub"
@@ -18,4 +24,8 @@
     <project path="d01_WangHais-common-code-base" name="WangHais-common-code-base" />
 
     <project path="opencv_and_zbar" name="opencv_and_zbar" revision="2018_10_17"/>
+
+    <project path="createQRCode" name="GenerateQRCode" remote="other_01_gitbub"/>
+
+
 </manifest>
