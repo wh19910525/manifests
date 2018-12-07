@@ -12,6 +12,11 @@
         fetch="https://github.com/yangxch/"
         />
 
+    <remote
+        name="other_02_gitlab"
+        fetch="git@10.18.8.121:MTK_LF502_8_1/"
+        />
+
     <default
         revision="master"
         remote="frank_gitbub"
@@ -26,5 +31,6 @@
 
     <project path="createQRCode" name="GenerateQRCode" remote="other_01_gitbub"/>
 
+    <project path="manifest_gitlab" name="manifest" remote="other_02_gitlab"/>
 
 </manifest>
