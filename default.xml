@@ -8,7 +8,7 @@
         />
 
     <default
-        revision="test"
+        revision="master"
         remote="frank_gitbub"
         sync-j="4"
         />
