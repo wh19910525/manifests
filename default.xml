@@ -13,6 +13,8 @@
         sync-j="4"
         />
 
-  <project path="art" name="WangHais-common-code-base" />
+    <project path="WangHais-common-code-base" name="WangHais-common-code-base" />
+
+    <project path="d01_WangHais-common-code-base" name="WangHais-common-code-base" revision=nexgo_2018_11_22/>
 
 </manifest>
