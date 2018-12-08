@@ -17,6 +17,11 @@
         fetch="git@10.18.8.121:MTK_LF502_8_1/"
         />
 
+    <remote
+        name="other_03_ssh_gitlab"
+        fetch="ssh://git@10.18.8.121/MTK_LF502_8_1/"
+        />
+
     <default
         revision="master"
         remote="frank_gitbub"
@@ -31,6 +36,8 @@
 
     <project path="createQRCode" name="GenerateQRCode" remote="other_01_gitbub"/>
 
-    <project path="manifest_gitlab" name="build" remote="other_02_gitlab"/>
+    <project path="manifest_gitlab" name="art" remote="other_02_gitlab"/>
+
+    <project path="build_ssh_gitlab" name="build" remote="other_03_ssh_gitlab"/>
 
 </manifest>
