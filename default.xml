@@ -31,6 +31,6 @@
 
     <project path="createQRCode" name="GenerateQRCode" remote="other_01_gitbub"/>
 
-    <project path="manifest_gitlab" name="manifest" remote="other_02_gitlab"/>
+    <project path="manifest_gitlab" name="build" remote="other_02_gitlab"/>
 
 </manifest>
