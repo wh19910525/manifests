@@ -36,6 +36,8 @@
 
     <project path="createQRCode" name="GenerateQRCode" remote="other_01_gitbub"/>
 
+    <project path="art_git_write_gitlab" name="art" remote="other_02_gitlab"/>
+
     <project path="build_ssh_gitlab" name="build" remote="other_03_ssh_gitlab"/>
 
 </manifest>
