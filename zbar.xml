@@ -17,9 +17,9 @@
 
     <project path="Zbar" name="Zbar" />
 
-    <project path="libiconv-1.15" name="libiconv" />
+    <project path="Zbar/libiconv-1.15" name="libiconv" />
 
-    <project path="opencv" name="opencv" />
+    <project path="Zbar/opencv" name="opencv" />
 
 
 
