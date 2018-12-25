@@ -21,8 +21,8 @@
 
     <project path="Zbar/opencv" name="opencv" />
 
-    <project path="DecodeService" name="DecodeService" />
+    <project path="DecodeService" name="DecodeService" revision="nexgo_2018_15_25"/>
 
-    <project path="python_CreateQRcode" name="python_CreateQRcode" />
+    <project path="python_CreateQRcode" name="python_CreateQRcode" revision="nexgo_2018_15_25"/>
 
 </manifest>
