@@ -21,6 +21,8 @@
 
     <project path="Zbar/opencv" name="opencv" />
 
+    <project path="DecodeService" name="DecodeService" />
 
+    <project path="python_CreateQRcode" name="python_CreateQRcode" />
 
 </manifest>
