@@ -15,8 +15,8 @@
 
   <include name="qrcode.xml" />
 
-  <project path="my_common_shell" name="my_often_shell" />
+  <project path="my_common_shell" name="my_often_shell" revision="2014_12_12"/>
 
-  <project path="my_demo_project" name="frank_test_project" />
+  <project path="my_demo_project" name="frank_test_project" revision="nexgo_2016_11_15"/>
 
 </manifest>

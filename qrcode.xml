@@ -13,13 +13,7 @@
         sync-j="4"
         />
 
-    <project path="WangHais-common-code-base" name="WangHais-common-code-base" revision="nexgo_2018_11_22" />
-
-    <project path="Zbar" name="Zbar" />
-
-    <project path="Zbar/libiconv-1.15" name="libiconv" />
-
-    <project path="Zbar/opencv" name="opencv" />
+    <include name="zbar.xml" />
 
     <project path="DecodeService" name="DecodeService" revision="nexgo_2018_12_25"/>
 
