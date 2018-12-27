@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <remote
+        name="frank_gitbub"
+        fetch=".."
+        />
+
+
+    <default
+        revision="nexgo_2018_12_08"
+        remote="frank_gitbub"
+        sync-j="4"
+        />
+
+  <include name="qrcode.xml" />
+
+</manifest>
