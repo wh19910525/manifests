@@ -19,4 +19,6 @@
 
   <project path="my_demo_project" name="frank_test_project" revision="nexgo_2018_12_27"/>
 
+  <project path="my_documentation" name="my_documentation" revision="nexgo_2019_03_06"/>
+
 </manifest>
